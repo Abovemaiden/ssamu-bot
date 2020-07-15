@@ -42,6 +42,3 @@ bot.on("message", async message => {
     }
 });
 bot.login(process.env.token);
-
-// console.log(botSettings.token);
-// console.log(botSettings.prefix);
