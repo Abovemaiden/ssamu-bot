@@ -1,0 +1,1 @@
+Worker: node ssamu_general.js
